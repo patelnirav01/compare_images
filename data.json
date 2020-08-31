@@ -1,0 +1,34 @@
+{
+"homepages" : [
+    {
+        "site_name": "pfizerconnectcomau",
+        "site_url": "https://www.pfizerconnect.com.au/",
+        "loginbtn_xpath" : "//*[@id='site-header']/nav[2]/div/div[5]/span",
+        "loginwindow_xpath" : "//*[@id='janrainModal']",
+        "original_filename": "pfizerconnectcomau_original.png",
+        "new_filename": "pfizerconnectcomau_new.png"
+        
+    },
+
+    {
+        "site_name": "pfizerproit",
+        "site_url": "https://www.pfizerpro.it/",
+        "loginbtn_xpath" : "//*[@id='block-system-user-menu']/div/ul/li[1]/a",
+        "loginwindow_xpath" : "//*[@id='janrainModal']",
+        "original_filename": "pfizerproit_original.png",
+        "new_filename": "pfizerproit_new.png"
+        
+    },
+
+    
+    {
+        "site_name": "pfizerprofr",
+        "site_url": "https://www.pfizerpro.fr/",
+        "loginbtn_xpath" : "//*[@id='block-system-user-menu']/div/ul/li[2]/a",
+        "loginwindow_xpath" : "//*[@id='janrainModal']",
+        "original_filename": "pfizerprofr_original.png",
+        "new_filename": "pfizerprofr_new.png"
+        
+    }
+]
+}
